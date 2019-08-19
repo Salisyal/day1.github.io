@@ -2,14 +2,14 @@
 
  Bantulah Foxie untuk menghitung jumlah pakaian yang akan dimasukkan ke mesin cuci menggunakan algoritma / pseudocode perulangan!
 
-  Tugas 3 algoritma
+  Tugas 3 pheouscode
  STORE "laundry" with 0
  WHILE "laundry" <20
    ADD "laundry" by 1
   
  DISPLAY "Laundry process"  
 
-
+algoritma
  var laundry = 0;
  while(laundry < 20)
  laundry++
