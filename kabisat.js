@@ -6,7 +6,7 @@ Apa yang kamu ketahui tentang tanggal 29 Februari? Kamu pasti tahu jika suatu ta
  Jika tahun habis di bagi 4, habis di bagi 100 dan habis di bagi 400
   Buatlah algoritma/pseudocode untuk menentukan apakah suatu tahun merupakan tahun kabisat atau bukan!
 
- ** tugas 2 algoritma **
+ ** tugas 2 **
  STORE "year" with "number"
 
  IF "year" mod 4 equal to 0 THEN
